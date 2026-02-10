@@ -1,8 +1,18 @@
-# bc-scripts
+# Business Central - Scripts
 
 This repository contains PowerShell scripts to simplify the creation and license management of **Microsoft Dynamics 365 Business Central** containers using the **BCContainerHelper** module.
 
----
+> Before running scripts, make sure you have the **BCContainerHelper** module installed by running in PowerShell:
+>
+> ```powershell
+> Install-Module BCContainerHelper -Force
+> ```
+>
+> To verify the installation, run:
+>
+> ```powershell
+> Get-InstalledModule BCContainerHelper
+> ```
 
 ## container-create.ps1
 

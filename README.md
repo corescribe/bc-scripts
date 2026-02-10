@@ -14,10 +14,10 @@ This repository contains PowerShell scripts to simplify the creation and license
 > Get-InstalledModule BCContainerHelper
 > ```
 
-## container-create.ps1
+## [container-create.ps1](https://github.com/corescribe/bc-scripts/blob/main/container-create.ps1)
 
 This script creates a new Business Central container with the specified parameters.
 
-## container-import-license.ps1
+## [container-import-license.ps1](https://github.com/corescribe/bc-scripts/blob/main/container-import-license.ps1)
 
 This script imports a Business Central license into an existing container and restarts it.
